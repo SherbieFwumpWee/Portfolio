@@ -9,9 +9,9 @@ Since then, I’ve strengthened my skills with courses in Python, R, Excel, SQL,
        width="300">
 </p>
 
-## Portfolio Projects
+## Portfolio Project
 
-### **1. Music Streaming Exploratory Data Analysis**
+### **Music Streaming Exploratory Data Analysis**
 📂 [View Full Project Notebook](https://github.com/SherbieFwumpWee/Portfolio/blob/main/Portfolio_Project_Notebook.ipynb)
 
 **Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib  
