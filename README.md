@@ -12,9 +12,8 @@ Since then, I’ve strengthened my skills with courses in Python, R, Excel, SQL,
 ## Portfolio Projects
 
 ### **1. Music Streaming Exploratory Data Analysis**
+📂 [View Full Project Notebook →](https://github.com/SherbieFwumpWee/Portfolio/blob/main/Portfolio_Project_Notebook.ipynb)
 **Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib  
 **Description:**  
-Analyzed data from 5,000 global music streaming users to uncover insights on user engagement, platform popularity, and subscription patterns.  
-Conducted statistical tests (t-test, correlation) and created visualizations to compare usage across platforms and identify behavioural trends.
+Analysed data from 5,000 global music streaming users to uncover insights on user engagement, platform popularity, and subscription patterns. Conducted statistical tests (t-test, correlation) and created visualizations to compare usage across platforms and identify behavioural trends.
 
-📂 [View Full Project Notebook →](https://github.com/SherbieFwumpWee/Portfolio/blob/main/Portfolio_Project_Notebook.ipynb)
