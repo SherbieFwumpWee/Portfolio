@@ -18,5 +18,3 @@ Analyzed data from 5,000 global music streaming users to uncover insights on use
 Conducted statistical tests (t-test, correlation) and created visualizations to compare usage across platforms and identify behavioural trends.
 
 📂 [View Full Project Notebook →](https://github.com/SherbieFwumpWee/Portfolio/blob/main/Portfolio_Project_Notebook.ipynb)
-
-![Music Streaming Analysis](https://github.com/SherbieFwumpWee/Portfolio/blob/main/IMG_8753.jpg?raw=true)
